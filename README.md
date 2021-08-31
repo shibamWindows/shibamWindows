@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @shibamWindows
-- 👀 I’m interested in ...Java
-- 🌱 I’m currently learning ...Java
-- 💞️ I’m looking to collaborate on ...dk
-- 📫 How to reach me ...shibamsinha83@gmail.com
+- ssup?this is Shibam
+- I’m interested in ...Java
+- I’m currently learning ...Java
+- I’m looking to collaborate on ...dk
+- How to reach me ...shibamsinha83@gmail.com
 
 <!---
 shibamWindows/shibamWindows is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
